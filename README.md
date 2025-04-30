@@ -1,4 +1,5 @@
-![WhatsApp Image 2025-04-30 at 22 15 41_e763c29a](https://github.com/user-attachments/assets/e2b93391-742b-46d7-b1ce-b77999d6bfd6)# Team Management Application
+![WhatsApp Image 2025-04-30 at 22 15 41_e763c29a](https://github.com/user-attachments/assets/e2b93391-742b-46d7-b1ce-b77999d6bfd6)
+# Team Management Application
 A full-stack web application for managing team members, built with React.js, Node.js, Express, and MongoDB.
 
 ## Team Members
@@ -95,4 +96,5 @@ team-management/
 ``` 
 
 ## Project Overview/ Outcome:
-![WhatsApp Image 2025-04-30 at 22 15 41_e763c29a](https://github.com/user-attachments/assets/00165855-c4fd-4940-acc8-97cd1ea99b25)
+![WhatsApp Image 2025-04-30 at 22 15 41_ab45aada](https://github.com/user-attachments/assets/a828d022-8676-41a9-aede-3f78758dedfd)
+
