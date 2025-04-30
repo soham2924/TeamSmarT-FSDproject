@@ -98,3 +98,4 @@ team-management/
 ## Project Overview/ Outcome:
 ![WhatsApp Image 2025-04-30 at 22 15 41_ab45aada](https://github.com/user-attachments/assets/a828d022-8676-41a9-aede-3f78758dedfd)
 
+![image](https://github.com/user-attachments/assets/be980c36-2527-49a4-89f8-d49c1f1f4d49)
