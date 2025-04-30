@@ -1,11 +1,14 @@
-# Team Management Application
+![WhatsApp Image 2025-04-30 at 22 15 41_e763c29a](https://github.com/user-attachments/assets/e2b93391-742b-46d7-b1ce-b77999d6bfd6)# Team Management Application
+A full-stack web application for managing team members, built with React.js, Node.js, Express, and MongoDB.
 
 ## Team Members
-Sohamsingh Thakur [ RA2211056010118]
-Lalith Aditya [RA2211056010076]
-Sanjana Disawal [RA2211056010113]
+<ul>
+   <l>Sohamsingh Thakur [ RA2211056010118]</l>
+   <l>Lalith Aditya [RA2211056010076]</l>
+   <l>Sanjana Disawal [RA2211056010113]</l>
+</ul>
 
-A full-stack web application for managing team members, built with React.js, Node.js, Express, and MongoDB.
+
 
 ## Features
 
@@ -92,3 +95,4 @@ team-management/
 ``` 
 
 ## Project Overview/ Outcome:
+![WhatsApp Image 2025-04-30 at 22 15 41_e763c29a](https://github.com/user-attachments/assets/00165855-c4fd-4940-acc8-97cd1ea99b25)
