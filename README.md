@@ -1,5 +1,10 @@
 # Team Management Application
 
+## Team Members
+Sohamsingh Thakur [ RA2211056010118]
+Lalith Aditya [RA2211056010076]
+Sanjana Disawal [RA2211056010113]
+
 A full-stack web application for managing team members, built with React.js, Node.js, Express, and MongoDB.
 
 ## Features
@@ -85,3 +90,5 @@ team-management/
 ├── server.js             # Backend server
 └── package.json          # Backend dependencies
 ``` 
+
+## Project Overview/ Outcome:
