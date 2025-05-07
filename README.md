@@ -7,6 +7,7 @@ A full-stack web application for managing team members, built with React.js, Nod
    <l>Sohamsingh Thakur [ RA2211056010118]</l>
    <l>Lalith Aditya [RA2211056010076]</l>
    <l>Sanjana Disawal [RA2211056010113]</l>
+   <l>ChaitanyaKumar [RA2211056010091]</l>
 </ul>
 
 
